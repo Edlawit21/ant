@@ -1,0 +1,17 @@
+li.ant-menu-overflow-item.ant-menu-submenu.ant-menu-submenu-horizontal::after{
+    border-bottom: none;
+    
+}
+
+span.ant-menu-title-content:hover {
+    color: black;
+    padding: 5px;   
+}
+
+span.ant-menu-title-content {
+    color: rgb(134, 131, 131);
+}
+
+
+
+
